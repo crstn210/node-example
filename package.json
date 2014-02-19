@@ -1,0 +1,27 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "This example app is so cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "https://github.com/crstn210//node-example.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crstn210/node-example.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "crstn210",
+  "license": "(BSD-2-Clause) MIT",
+  "bugs": {
+    "url": "https://github.com/crstn210/node-example/issues"
+  },
+  "homepage": "https://github.com/crstn210/node-example",
+  "dependencies": {
+    "logfmt": "^0.21.0",
+    "express": "^3.4.8"
+  }
+}
